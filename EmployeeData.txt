@@ -1,0 +1,4 @@
+1,Haruka,Nanase
+2,Makoto,Tachibana
+3,Nagisa,Hazuki
+4,Rin,Matsuoka
