@@ -69,3 +69,6 @@ print("[remove_data:]")
 print()
 print(EIO.remove_employee_data(lstTable)) # (9, 'TestFirst', 'TestLast')
 print()
+
+# Exit the program
+input("\nPress the enter key to exit.")
